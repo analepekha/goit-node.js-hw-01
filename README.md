@@ -1,7 +1,7 @@
-LIST: https://monosnap.com/file/cIKyD0VasltQtZcabnMP2iCBuS1LMU
+LIST:
 
-GET: https://monosnap.com/file/prBWWoX190GAGzMJdShMxgFCzQeuTv
+GET:
 
-ADD: https://monosnap.com/file/QgsjilJYMOQoQWKQFUh3FqhdMGB8NO
+ADD:
 
-REMOVE: https://monosnap.com/file/LoU6i4n3fBjZtrCYVcdmxFQCkZmoNb
+REMOVE:
